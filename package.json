@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate_parcel",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gromalex/boilerplate_parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gromalex/boilerplate_parcel/issues"
+  },
+  "homepage": "https://github.com/gromalex/boilerplate_parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.34.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
+}
