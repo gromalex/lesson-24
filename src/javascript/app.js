@@ -126,3 +126,5 @@ cards.forEach(item => {
 
   document.body.innerHTML += card
 })
+
+console.log('Test')
